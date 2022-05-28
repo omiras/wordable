@@ -1,4 +1,4 @@
-    1. Cuando el usuario pulsa tecla, debe aparecer dicha "letra" en la casilla correspondiente
+1. Cuando el usuario pulsa tecla, debe aparecer dicha "letra" en la casilla correspondiente
   1b. Deberíamos solo "escuchar" las letras pulsadas, no número, ni TAB, etc OK
   1c. Capaces de escribir una letra en una casilla OK
   1d. Capacer de escuchar las teclas pulsadas por el usuario. OK
@@ -7,8 +7,7 @@
 palabra secreta. OK
 4. Debe colorear adecuadamente cada letra en función
 de si es correcta, si está en la posición adecuada
-o por lo contrario ni siquiera existe.
-    (correcto: verde, equivocase: rojo tirando a un
+o por lo contrario ni siquiera existe. (correcto: verde, equivocase: rojo tirando a un
      poco más oscurllo, casilla equivocada: naranja), OK
 6. Color de letras negro por defecto, pero al pintar 
 el resultado cambiar el color de la letra a blanco. OK
