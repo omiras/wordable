@@ -6,8 +6,7 @@ main {
 }
 .game {
   display: grid;
-  grid-template-columns: repeat(5, 50px);
-  grid-template-rows: repeat(6, 50px);
+  /** TODO: Aplicar correctamente las propiedades CSS De grid para obtener una parrilla de 5 columnas y 6 filas */
   gap: 5px;
 }
 
