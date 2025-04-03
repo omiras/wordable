@@ -1,5 +1,5 @@
 
-[Demo](https://omiras.github.io/wordable/)
+[Demo](https://omiras.github.io/wordable/) - La palabra es en **inglés**
 
 1. Cuando el usuario pulsa tecla, debe aparecer dicha "letra" en la casilla correspondiente
   1b. Deberíamos solo "escuchar" las letras pulsadas, no número, ni TAB, etc OK
